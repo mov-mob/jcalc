@@ -7,6 +7,7 @@ jcal.sh: script for run Calculadora.jar
 
 Example:
 $jcal
+
 e*sin(pi/2)-pc*C*3600+2²
 
 Must exec:
